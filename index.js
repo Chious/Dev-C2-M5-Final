@@ -4,7 +4,7 @@ const POSTER_URL = BASE_URL + "/posters/";
 
 const dataPanel = document.querySelector("#data-panel");
 
-let showState = "list";
+let showState = "card";
 let pageState = 1;
 
 function renderCard(data) {

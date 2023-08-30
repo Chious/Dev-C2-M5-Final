@@ -85,10 +85,6 @@ paginator.addEventListener("click", function onPaginatorClicked(event) {
 
 1. 增加ＣＯＤＥ的易讀性，重新改變成ＭＶＣ邊排
 
-## 遇到的問題：
-
-1. 不知道為什麼在按切換頁面的按鈕時有點卡卡的，需要按好幾次才會切換。
-
 ### Useful resources
 
 ## Author
