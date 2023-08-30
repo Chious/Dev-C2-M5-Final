@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Chious/Dev-C2-M4-User-List](https://github.com/Chious/Dev-C2-M4-User-List)
-- Live Site URL: [https://chious.github.io/Dev-C2-M4-User-List/](https://chious.github.io/Dev-C2-M4-User-List/)
+- Solution URL: [https://github.com/Chious/Dev-C2-M5-Final](https://github.com/Chious/Dev-C2-M5-Final)
+- Live Site URL: [https://chious.github.io/Dev-C2-M5-Final/](https://chious.github.io/Dev-C2-M5-Final/)
 
 ## My process
 
